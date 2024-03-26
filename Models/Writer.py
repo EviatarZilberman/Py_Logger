@@ -4,7 +4,7 @@ from pathlib import Path
 from Enums.LogLevels import LogLevel
 
 
-class Writer():
+class Writer(object):
     _m_instance = None
     _m_base_path = None
     _m_file_name = None
