@@ -2,7 +2,7 @@ from enum import Enum
 
 
 class LogLevel(Enum):
-    i = 'Info'
-    e = 'Error'
-    f = 'Fatal'
+    INFO = 'Info'
+    ERROR = 'Error'
+    FATAL = 'Fatal'
 

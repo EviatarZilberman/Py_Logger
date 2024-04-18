@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82dd6f71-936a-483c-a51d-14be9bb98146" name="Changes" comment="Now logger is fine." />
+    <list default="true" id="82dd6f71-936a-483c-a51d-14be9bb98146" name="Changes" comment="Now logger is fine.">
+      <change beforePath="$PROJECT_DIR$/.idea/Py_Logger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py_Logger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/LogLevels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Enums/LogLevels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Writer.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,14 +40,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.App.executor": "Run",
+    "Python.app.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/Projects/Py_CheckPoint_API"
+    "last_opened_file_path": "C:/Users/User/Projects/Py_Logger/App.py"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="App" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python">
       <module name="Py_Logger" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,7 +57,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Py_Logger)" />
+      <option name="SDK_NAME" value="Python 3.12 (Py_E_Commerce)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -68,7 +75,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -103,5 +110,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Now logger is fine." />
     <option name="LAST_COMMIT_MESSAGE" value="Now logger is fine." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Models/Writer.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
